@@ -1,0 +1,32 @@
+Zur Theorie der Imprimitiven und der Dekomposabeln
+ausscsbaren Gruppen.
+
+1. Die umfassendste mir bekannte Theorie der auflbsbaren Gruppen
+:gegebenen Grades, welche allgemein und imprimitiv oder prim-ar, allge-
+mein und dekomposabel sind, ist diejenige, welche JORDAN im »Traite
+des substitutione et des &quatiens algebriques» gegeben hat. Durch einige
+Seitze iiber den Iscmcrphismus, welche im »Traite)) nicht vorkommen,
+kann diese Theorie vereinfacht und aufgeklfirt werden. In der vorlie-
+genden Arbeit werde ich diese Vereinfachung der Theorie durchsiihren.
+Ebenfalls werde ich die Theorie in anderen Hinsichten bearbeiten und
+einen Irrtum bezfiglich der dekompcsabeln Gruppen berichtigen. Von
+den fraglichen Sittzen fiber den Isomorphismus kommen fast alle in
+NET‘ro's Substwitutionentheorie vor. Da aber in diesem Werke die Fas-
+sung dieser Sittze oder die Herleitung derselben fehlerhaft ist, und weder
+diese noch die iibrigen bei den andern mir bekannten Verfassern vor-
+kommen, werde ich zuerst eine vollstiindige Darstellung dieser Saitze geben.
+
+I.
+
+fJb er den Isomorphismus.
+
+2. Es sei G eine Gruppe von substitutionem, Γ eine zur G iso-
+morphe Gruppe, L eine Untergruppe von G, und A die entsprechende
+in Γ enthaltene Gruppe. Es sei ferner J die Untergruppe von G, welche
+der Substitution 1 in Γ entspricht. Wenn dann J in L eingeht, so ent-
+halt L samtliche diejenigen substitutionem von G, welche A entsprechen,
+und A ist eine Untergruppe von Γ. W'enn nssimliel] m die Ordnung von
+J bezeichnet, so miissen jeder Substitution von A gerade m Substitu-
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ. Impr. “ln 1899. l
+

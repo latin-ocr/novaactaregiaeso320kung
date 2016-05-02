@@ -1,0 +1,53 @@
+6 J. Τ. SODERBERG,
+
+die Elemente des ν-ξ- lzsten Systems vertanechen, Η, nennen, erhalten ’
+
+wir μ Gruppen
+(3) H0‚H„....H„„1,
+
+welche durch Transformation von Ho durch (2) gebildet werden kennen.
+
+Dann stellen wir folgenden Satz auf:
+
+Damit eine imprimitive Gruppe G auflb'sbar sei, ist es notwendiq und
+Itinrez'chaeml, (lass D und HO auflc'sbar sind. Die Falctoren der Zusammen-
+setzwzg] von G bestelzen aus clenjeniyen von D nebst (len Fal-toran cler Zu-
+sammensetzuny von ΗΟ, ein jeder 1ur Mal wieclerlzolt, oder nebst Divisoren
+dieser Zalzlevz.
+
+Da D zu G auf die VVeise isomorph ist, dass der substitution 1
+in D die Gruppe G1 in G entspricht, bestehen niimlich nach nzo 3 die
+Faktoren der Zusammensetzung von G aus denjenigen von D und G,‚
+welche letsztere nach nto 4 aus denjenigen der Gruppen (3), d. h. den-ie-
+nigen der ΗΟ μ, Mal wiederholt ausgemacht werden, oder aus Divisoren
+dieser Zahlen. Hiermit ist auch gezeigt, dass die Bedingung der Aufibs-
+bar-keil von G hinreichend ist, was in keinem mir bekannten Werke aus-
+gesprochen ist.
+
+Ans der Auflesbarkeit von G geht diejenige von D und G¹ berver,
+weil D isomorph und Gl eine Untergruppe zu G ist, und mit Gl muss
+HO auflcsbar sein. Also ist (lie Bedingnng der Auflesbarkeit von G auch
+notwendig.
+
+6. Wir bezeichnen mit
+(4) l, ΗΜ . . . . &pq
+
+Substitutionen, welche die Systexne der Imprimitivitiit wie (2) vertauschen
+und die Elemente eines jeden Systems durch die entsprechenden Ele-
+mente eines Systems ersetzen. Diese bilden eine zu D einstufig iso-
+morphe Gruppe A, und es sind ·
+
+(5) 01=19131‚02=193....0
+
+2‘27
+
+wo El, . . . ..ἔῃ-ι die Systelne nicht vertauschen. Wir stellen uns nun die
+Aufgabe, den Satz zu beweisen, dass, Wenn G eine imprimitive allyeoneine
+auflo'sbare Gruppe vom Grade η ist, durch Transformation der letzten
+Indices der Elementa ermittelt werden kann, dass beim Einordnen von G
+ins Schema (Ι) die substitutionem (2) durch die (4) ersetzt. werden ken-
+nen, und dass G = {A, ΗΟ) wird.
+
+Wenn JORDAN, welcher diesen Satz eret im Zusammenhang mit spa-
+teren Entwickelungen im »Traitdm vollstkindig darlegt, denselben stirp = Mi-
+

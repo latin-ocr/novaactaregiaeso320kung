@@ -1,0 +1,48 @@
+14 J. T. Senssmmssc,
+
+Hierbei [missen offenbar diejenigen Gruppen D⁰7 D„ . . . ΒΗ ,
+welche ihre Elemente wie ΔΟ, ΛΗ . . . Ab, ihre Imprimitivitiitssysteme
+vertauschen, allyemeine auflcsbare Gmppen der Graden luovfln . . . μί..1 sein.
+
+Wenn nun A = ΜΟ, A„ . . . . Aba} gesetzt wird, ergiebt sich endlich
+G Ξ l J, Ho} 7
+
+wo J die Elemente eines belicbigen der Systeme (9) durch die nach
+den Indextransfcrmaticmen entsprechenden Elemente eines dieser Systeme
+erse‘tzt7 weil dies von AO, A„ . . . :sk-1 gilt.
+
+Nun wird ersichtlich, dass H0 transitiv ist und dass HO und (116-
+
+jenige Gruppe D, welche ihre Elemente wie J (116 Systeme (9) ver-
+tauscht, allyaemeine auflesbare Gruppen von den respektiven Graden m und
+μ sein missen.
+
+Hiermit ist dic in 1110 6 gestellte Aufgabe gelbst.
+
+14. Wenn die Systeme (161· Ιιῃρν1111111ν1ῐέ11 (9) sc gcwiihlt sind,
+dass keine Untersysteme dcrselben Systelne der Imprixnitivitiit sind, lasst
+es sich zeigen, dass H„ prilnitiv ist. Danu folgt dor bekannte Satz,
+dass eine huprimitive allgemeine auflcsbare Gruppe vzten Grades mittelst
+primitium* allgemeiner auflesbarer Gruppen niedrigerer Grade gebildet
+werden kann.
+
+15. Mittelst nzc 13 kann sehr leicht bewiescn werden, dass jedes
+Systen] der Imprimitivitsstt von G, welches gleich viele oder mehrere Ele-
+mente wie eines der Systeme (9) enthiil‘ss, welche eine beliebige 151111161-
+lung der Elemente von G in Imprimitivitiitssystemeausmachen, aus einem
+dieser Systcme oder aus melu-eren derselben zusannnengencnnnen be—
+steht. Es ergiebt sich comit, dass die in nto S definierte Zahl μ und die
+Systeme der [lnprimitivitiit (7) mit μθ und den Systenmn (10) identisch
+sind⁷ und {lass bei jeder andern Einteilung der Eletnente in Systeme der
+Imprimitivitz'it (116 Anzahl der Systeme gresser als μθ ist.
+
+III.
+
+Auficsbare primare Gruppen eines gegebenen Grades μ’, welche
+allgemein und dekomposabel sind.
+
+16. Es sei Ι’ eine dekornposable Gruppe von] Grade μ’. Die
+λ Systerne von m sc beschaffenen linearen F1111l<tionen der Indices, dass
+alle ληὶ Funktionen distinkt sind. und dass die m Funktionen eines be-
+liebigen Systems durch jede substitution von Γ mit. linearen Funktionen
+

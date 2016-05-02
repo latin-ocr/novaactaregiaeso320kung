@@ -1,0 +1,49 @@
+UBER IMPRlMITIVE UND DEKOMPOSABLE AUFlhsssAssss GRUPPEN. 7
+
+nimum hel-leiten soll, heht er oft hervor, dass neben D und H„ auch G
+aufl6sbar sein muss, und er beweist arn Ende dor Untersuchung nur ssu·
+einen speziellen Fall, dass G auflbsbar wird, wenn 08 D und H0 sind.
+Dern Leser wird dabei leicht die falsche Auffassung beigebracht, dass
+unter den imprimitiven Gruppen mit auflosbaren D und H„ solche vcrkcm-
+men, welche nicht aufl'osbar sind, und welche nicht durch Indextrans-
+formationen auf die Weise ins Schema (I) eingereiht werden kennen, dass
+die substitutionem (2) durch (4) ersetzt werden, ohschon sie als nicht
+auflesbar in keine allgemeinere auflosbare Gruppen 722te11 Grades eingehen.
+Durch den Satz in nto 5 haben wil· diesem Irrtuln vorgebeugt.
+
+7. Zufolge der in n:0 6 gemachten Annahme, dass G in keine
+allgemeinere aufibsbare Gruppe vom Grade η eingeht, welche Annahlne
+wir im folgenden festhalten, gilt bekanntlich, dass G¹ gleich
+
+(6), {H0,H1,....Hffi-,}
+
+wird. Wir k611nen dies folgendernlassen zeigen. Weil G aufl'csbar ist, sind
+es nach nzo 5 auch D, ΗΟ, . . . Ημ-ι. Ε8 m'cgen nun (6) durch Φ und
+{o„ . . . oq—l, 11³} durch '‘l‘bezeichnet werden. Offenbar ist. Wirnprimitiv
+und diejenige Gruppe, welche 60, . . . .εμ-, wie '‘l‘' die Ilnpri[nitivitiitssy—
+steme vertausch‘s, identisch mit der obenerwfflmten D und also auflesbar.
+Weil die Substitutionenkomplexe Φ, alth, 62‘12, . . . . oq„(15, wie leicht
+gezeigt werden kann, eine Gruppe bilden, ist Φ die allgemeinste Unter—
+gruppe von Ψ, welche die Systeme nicht vertauscht. Die Gruppe, welche
+von denjenigen Bestandteilen der Substitutionen von Φ, welche die Ele-
+mente in] ersten Imprimitivita‘lssysten]e vertauschen‚ gebildet wird, ist
+daher die obenerwiihnte ΗΟ und also aufiesbar. Somit wird nach n:0 ἴ)
+auch Ψ auflesbar. Da nun G in Ψ eingeht und eine allgemeine 30Ηὸ8-
+bare Gruppe nxten Grades ist, miissen Ψ und G zusammenfallen, also
+auch Gl und Φ oder (6).
+
+S. Wenn die Einteilung der Elemente von G in Systeme der
+Imprimitivitat verschiedentlich geschehen kann, nehmen wir an, die Ein-
+teilung sei 80 gewiihlt, dass durch Vereinigung der Elemente mehrerer
+Systeme kein neues System der Impri1nitivit}it erhalteu werden kann.
+
+Die 80 erhaltenen Systerne, deren ΑΗΖ-(1111 wie oben μ sei, bezeichnen
+wir durch
+
+(7) S0‚S1,.. . . Sss-l.
+
+D mnes nun primitiv sein. Wenn n5n1lich die μ Elemente von D in λ
+Systeme der Imprimitivitfit
+
+(8) To, T„ . . . . Tlul
+

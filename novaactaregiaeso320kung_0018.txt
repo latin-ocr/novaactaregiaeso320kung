@@ -1,0 +1,46 @@
+4 J. T. SODERBERG,
+
+G muss namlich in die niedrigste Gruppe eingehen‚ welche ΗΟ,
+H17 . . . Ημ,1 enthfflt, welche wir mit
+
+(2) {H02H17··· . [su-1}
+
+bezeichnen. Zu dieser ist Η0 isomorph in der Weise⁷ dass der Substi-
+tution 1 111 H0 die Gruppe
+
+(3) { H¹ ..... H„-¹ 1
+
+zugeordnet ist. Die Faktoren der Zusammensetzung von (2) bestehert
+somi‘t. aus denjenigen von HO und (3). Dureh fortgesetzte Anwendung
+dieses Verfahrens erhalten wir, dass die Faktoren der Zusammensetzung
+von (2) aus denjenigen von HD, HI, . . Ha„¹ bestehen. Da semer die
+Faktoren der Zusammensetzung einer Untergruppe Diviseren von denje-
+nigen der Gruppe sind, (siehe JORDAN'S »Traite))‚ Seite 279), so 1111188811
+die Faktoren der Zusannnensetzung von G aus denjenigen von (l) oder
+aus Divisoren derselben bestehen, und G auflesbar sein. wenn (1) es sind.
+
+Danu leiten wir folgenden Satz her:
+
+Wenn L und L¹ auflesbare Οτι-11111181] 8111(1, und L¹ 1111111811 Substi-
+tutionen von L vertauschbar ist, so ist {L‚ [fil eine auflesbare Gruppe.
+
+Es sei J die Gruppe der substitutionem, welche den L und L,
+gemeinsam sind. Da diese eine ausgezeichnete Untergruppe von L wird,
+k611nen wir eine transitive Isomorphe Γ 211 L 1111(1811, 80 beschaffen⁷ dass?
+die der Substitution 1 in th1geo1·d1]eten Substitutionen von L die Gruppe
+J ausmachen (siehe 2. Β. ΝΕ’1“Το’8 8111181111111011811111801-18, Seite 92). Nun
+wird Γ auch zu ΙΙΙ), L¹ } isomorph, wenn wir der substitution 1 111 Γ (118
+Gruppe L¹ zuordnen. Wennsohon 8811111811 jede substitution von {L‚ LI}
+auf mehrere Weise als Produkt von substitutionem 111 L und L¹ ausge-
+drnokt werden kann, 80 ergiebt sich zuerst, dass jeder substitution von
+{L, LI} nur eine Substitution Γ zugeordnet, vvird. Denn wenn l und ἰ,
+beliebige Substitutionen der respektiven L und L¹ sind, haben wir‘
+l1l= blf, wo ll' zu L1 ὲ88111111.. Ι11 jedem Produkt vo'n Substitutionen
+aus L und Ll kennen daher die Faktoren auf die Weise vertauseht wer-
+den, dass die Substitutionen von L zusammen kommen, wobei diese nicht
+verendert werden. Also ist klar, dass dieselbe Substitution von Γ (18111
+Produkt entsprieht, wie auch dieses in Faktoren ausgelest wird. Weiter
+ergiebt sich auf dieselbe Weise, dass das Produkt zweier Substitutionen
+von {L‚ LI} dem Produkt der entsprechenden Substitutionen von Γ 211-
+geordnet ist. Also wird Γ 211 {L, LI} in der Weise isomorph‚ (1888
+

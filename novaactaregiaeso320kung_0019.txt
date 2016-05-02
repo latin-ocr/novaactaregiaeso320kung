@@ -1,0 +1,41 @@
+UBER IMPRIMI'PIVE UND DEKOMPOSABLE AUFLOSBARE GRUPPEN. 5
+
+der Substitution 1 in Γ die Gruppe L¹ entspricht. Aus der Auflcsbarkeit
+von Γ und Lx folgt daun diejcnige von {L, L‚} .
+Der Satz ist von JORDAN im ))Traitc))‚ Seite 392, anders bewiesen.
+
+ΙΙ.
+
+Auflcsbare Gruppen eines gegebenen Grades‚ welche allgemein und
+imprimitiv sind..
+
+5. Es sei G eine imprimitive Gruppe vom Grade n, und es scien
+die η Elemente von G auf μ Systeme der Imprimitivita't von m Elemen-
+ten verteilt, also n :pc m. Die Elemente seien durch das Symbol Cum-
+bezeichnet‚ welches ein und dasselbe Element bedeuten soll, wenn u mod.
+μ 1111(1 υ mod. m reduziert werden und es mcgen die Systeme der Im-
+primitivitat durch lm, lm, . . . lum—1 dargestellt werden wenn ιι (116
+Werte Ο, 1, ‚stt—l durchliiuft. Es sei ferne1 G die allgemeinste Un-
+tergruppe von G, welche die Systeme der I1nprimiti¹vit2tt nicht vertauscht
+und es seieu
+
+(1) 1, sl, . . . . ,οη-1
+
+(116 Substitutionen von Gl. Danu k6n11en die Substitutionen von G ins
+Schema
+
+]. 7 31 1 'qva—1
+σΗ σι ⁸1⁷ . . Δ . σι *aq-1
+ι σᾳ-Ι ‘511-1317 011—13 -1
+eingereiht werden, wo
+(2) l, σ1 ..... σῳ,
+
+Substitutionen von G sind, von welchen jede in keine der Reihen von (1)
+eingeht, welche derjenigen Reihe voraufgehen, in welcher die Substitu-
+‘t-ion ausgeschrieben ist. Dann giebt es keine zwei Substitutionen (2),
+welche die Systeme auf dieselbe Weise vertauschen. Die q Substitutio-
+nen, welche μ Elemente ρο, ει, . . (ἐμ-1 in derselben Weise vertau‘schen⁷
+wie (2) die Systeme der Imprimitivitat, bilden eine transitive zu G iso-
+morphe Gruppe, die wir D neuneu. In dem wir diejenige Gruppe‚ welche
+aus denjenigen Bestandteilen der substitutionem von Gl besteht‚ welche
+

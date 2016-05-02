@@ -1,0 +1,48 @@
+UBER IMPR1M1T1VE UND DEKOMPOSABLE AUFLOSBARE GRUPPEN. 13
+
+13. Es seien hiernach
+
+(9) S0 , 81 ..... Sp„¹
+eine beliebige Einteiluhg der Elemente in Systeme (ler Imprimitivititt,
+deren Anzahl μ beliebig sei‚-und es umgeu H07H1, . . . Ha„ sich auf
+(9) beziehen. Wir denken uns, es sei meglich‚ die (9) auf μΟ Gruppest
+
+(10) (ᾔει, . . . . eff,
+
+zu verteilen, welche eine neue Einteilung der Elemeute in Systeme
+der Imp1·i1nitivit{it bilden, und nehmen an, diese Verteilung sei so ge-
+schehen, dass keine neue Systeme der hnprimitivitiit. aus Gruppen der
+(10) ausgemaeht werden. μο wird dam] ein Divisor von μ, und es sei
+
+μΞμΟμ-ιο. Danu wird gemiiss nzo 12 nach passeuder Indextransforma-
+tion G Ξ {A07 ΗΜ, wo AJK, die (10) primitiv vertauscht und slabei die
+Elemente jedes der Systeme durch die entsprechenden eines der Sy-
+
+steme ersetzt⁷ und Hff' eine allgjemeine lesbare Gruppe von Grade ᾗοιη
+ist, welche die Elemente von (ᾖ, transitiv vertauscht und HO entha'lt. Die
+in ΘΟ enthaltenen Systeme (9), welche
+
+(11) smel, . . . . &za-1
+
+sein megen, werden von Hff'transitiv vertauscht⁷ weshalb diese impri-
+mitiv ist. Ihre Indices sind withrend der Indextransformation willkfirlich
+geblieben. Indem wir die Systeme (11) in angegebener Weise in Ober-
+systeme gruppieren‚ welche Systeme der hnprimitivitiit von ΗΕΒ) werden,
+und deren Anzahl μ1 der Gleichung Λῖιυῑμιῇ1 geniigen mag, ergiebt sich
+nach Indextramsformationen Hsso) Ξ {A1⁷ H'S'} , wo Δ1 die Systeme der Im-
+primitivitat primitiv vertauseht und dabei die Elemente jedes der Systeme
+mit den entsprechenden Elementen eines derselben ersetzt⁷ und Hfst)
+eine allyemez'ne auflesbare Gruppe vom Grade *sq m ist, welche die Ele-
+mente des ersten Imprimitivitetssystems transitiv umsetzt und Hoent-
+halt. lVenn wir die Indices der Elemente der iib1·igen Systeme (10)
+analog mit denjenigen von &0 transformieren, erhalten wir ferner
+G = {Am A¹7 Hss¹)}. Dann verfahren wir mit Hffl' wie mit HS* u. s. f.‚ bis
+wir zu ΗΟ gelangen, was nach lc Schritten geschehen mag. Wir erhalten
+somit nach mehreren Indextransformationem
+
+G=lA07A1⁷ ····· J k—l‘lHolJ
+wo Amal„ . . . :lh-1 ihre respektiven Systeme der Imprimitivitiit, deren
+Anzahl „Momm . . . fich-1 der Gleichung μομ, . . . *ub-1:51 geniigen. pri-
+
+mitiv vertauschen und H„ die Elemente von S„ umsetzt.
+

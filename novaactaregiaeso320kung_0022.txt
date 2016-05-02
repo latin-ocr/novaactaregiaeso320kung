@@ -1,0 +1,49 @@
+8 J. T. SC>DERBERG7
+
+zerfielen, so wfirden die λ Gruppen der Systerne (7), welche den (8)
+entsprechen, Systeme der Imprimitivitfit von G, was der eben gemacht-en
+Voraussetzung widerstreitet. Somit ist D prirnitiv, und Wir haben pc=p'‘‚
+wo p eine‘gP1·i1nzahl ist.
+
+’ ” Wi} ersetzen nun den ersten Index der Elemente lum durch κ In-
+dices, welche mod. p zu nehmen sind, so dass die Systeme der Impri-
+mitivitat durch κ Indices angegeben werden, und verfahren ebenso mit
+den Indices der Elemente ρο, . . . eia-1 von D. Dann besteht, wenu die
+κ Indices paesend gewahlt sind, D aus kombinierten linearem und arith-
+metischen Substitutionen. Wir setzen κε 2. Die substitutionen von D
+nehmen dann die Form
+
+T=l ‘'⁸⁷9'' aOoe-f-boy-fa, αιἜ-ΡῦιΖΙ-ἱ-βῘ
+
+an7 und die enfsprechenden Substitutionen von G die Form
+
+2³=l ·1‘2.²s‚v; (10.2¹-}-b0y÷a, a1w÷l>131÷l32 mewa> l·
+
+9. Als prirnitiv und auflcsbar muss D die Substitution Μ, 93 „ze-ff· 1 ‚yl
+euthalten. Es sei
+
+.4=j.z·‚y,v; ,112÷i,y‚‹p(ae7y‚v>l
+
+eine beliebige der entsprechenden substitutionen von G. Withrend wir
+die Verteilung der Werte des dritten Index auf die Elemente der Systeme,
+deren erster Index Null ist, beliebig sein lassen, k611nen Wir bekannt-
+lich fiir die iibrigen Systeme den dritten Index der Elemente derart
+transformieren⁷ dass
+
+ 
+
+ἒ O‚y, U} 1‚y‚v
+A Ξ .........
+12—2292v3P—12312v
+ῖ)-1,3],υ; 0,y,1,v(y,v)
+wird, was A1'-—..l.r,y,v; μμ, w(y‚v)} ergiebt. Diese Substitution muse
+
+in G eingehen, also nach n:o 7 auch die-jenige Substitution K, welche
+aus denjenigen Bestandteilen von ΑΡ ausgemacht wird, welche die Ele-
+mente der Systeme 0,y vertauschen ( = Ο7 1, . . ,1) - 1). Wenn wir nun
+
+⁵21=loe,y‚v; zL¹-†-]‚y,vl
+
+einffihren‚ erhalten wir Q: AK—¹. Also muSS ³21 nach der Indextrans-
+formation in G eingehen.
+

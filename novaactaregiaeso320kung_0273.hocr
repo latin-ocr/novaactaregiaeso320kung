@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso320kung_0273.png"; bbox 0 0 2163 3164; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 103 801 1745 1122">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 103 801 1745 1122">
+     <span class='ocr_line' id='line_1_1' title="bbox 103 801 1745 901; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 103 801 470 900; x_wconf 65' lang='lat' dir='ltr'>&#39;JNERGIE</span> <span class='ocrx_word' id='word_1_2' title='bbox 523 818 759 899; x_wconf 71' lang='lat' dir='ltr'>DANS</span> <span class='ocrx_word' id='word_1_3' title='bbox 812 819 919 899; x_wconf 70' lang='lat' dir='ltr'>LE</span> <span class='ocrx_word' id='word_1_4' title='bbox 967 819 1345 900; x_wconf 59' lang='lat' dir='ltr'><strong>§PECTRE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1394 820 1745 901; x_wconf 56' lang='lat' dir='ltr'>VISIBIAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 409 1024 1416 1122; baseline -0.005 -1"><span class='ocrx_word' id='word_1_6' title='bbox 409 1041 521 1121; x_wconf 71' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 576 1024 1000 1122; x_wconf 58' lang='lat' dir='ltr'><strong>DETALON</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1056 1041 1416 1122; x_wconf 73' lang='lat' dir='ltr'>HEFNER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 629 1566 1195 1612">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 629 1566 1195 1612">
+     <span class='ocr_line' id='line_1_3' title="bbox 629 1566 1195 1612; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 629 1578 801 1612; x_wconf 81' lang='lat' dir='ltr'><strong>KNUT</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 844 1566 1195 1612; x_wconf 62' lang='lat' dir='ltr'>ANGSTROM</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

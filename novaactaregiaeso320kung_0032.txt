@@ -1,0 +1,48 @@
+18 J. T. Seossssssene,
+
+Wir stellen nun folgenden Satz anf:
+
+Danzz't die prz'mc'ire und delcomposable Gruppe sdes Grades p²⁷¹² auf-
+lasbar sei, ist es notwemlz'g] und lcinreieloend, class <lie oben definierten Grap-
+pen D und HO aufl'o'sbar sind. Die Falctoren cler Zusammemetzuny von Γ
+bestelzen aus denjeniqen von D neb-§t (len Fal-torem cler Zasmnmensetzzmy von
+ΗΟ, ein jeder λ Mal winderholt, oder nebst Divisoren dieser Zalzlen.
+
+Der Beweis dieses Satzes stinnnt mit denjenigen dee entspre-
+chenden Satzes in nzo 5 gennn iiberehr, wir iibergehen ihn daher.
+
+19. Die Substitutionen
+(13) 11Ν1,Ν2,....Νρ,,,
+
+welche durch (9) definiert sind, bilden eine Gruppe A, welche zu D der-
+art einstufig isomorph ist, dass N,- in A der substitution ΦΓ] in D ent-
+spricht, und zu l' dernrt mehrstnfig isornorph, dass Nl- den Snbstitntionen
+der 214„ lzsten Zeile von Γ entspricht. Wir stellen nns die Aufgabe‚
+den Satz herznleiten, dass wenn Γ eine priinf'ire anflcsbare Grnppe vom
+Gradc ΜΨ ier, welche (zllgsetnein nnd dekmnposabel ist, durch Indextrans-
+formationem erzielt werden kann, dass die Substitutionen von [auch
+dann ins Schema l eingereiht werden kbnnen, wenn in ihm die Substi-
+tutionen (8) mit den (13) ersetzt werden, und dass ΓΞ llil, HO} wird.
+
+20. Wir nehrnen hiernach an, class die primiire und dekoinpo-
+sable Gruppe l· voni Grade 23⁷¹ anch anflc'sbar ist und in kcine allgemei-
+nere lineare auflesbare Grruppe voni Grade 29⁸ eingeht. Danu gilt be-
+kanntlich der Satz, dass J} gleich der Grnppe (12) ist. Dice kann fol-
+gendermassen hergeleitet werden. Es nidge die Grnppe (12) durch Φ
+bezeichnet werden, nnd es sei ³ls= ἰσωσῗ, . . . σφι, Φξ. Dann ist Ψ
+offenbar eine Γ nmfassende priiniire dekomposable Grnppe vom Grade-
+29⁷¹, von welcher anf dieselbe Weise gezeigt werden kann, dass sie mit
+Γ identisch ist, wie in nto 7, dass die dort durch zP'bezeichnete Gruppe
+mit G identisch ist. Also sind Γι und Φ identisch.
+
+21. Wir nehlnen nun an, die Indices seien in nze 16 auf die
+Weise in Systeme eingeteist, dass diese nicht derart in Obersysteme
+gruppiert werden kanen, dass Γ die Indices eines beliebigen Obersy-
+sterne durch lineare anktionen der Indices eines Obersystems ersetzt.
+Dann bezeichnen wir die Systeme mit
+
+(14) S0,S„....S2‚„1.
+
+Dann muss A (lie Systeme priinitiv vertauschen, also D primitiv werden.
+Wenn nfitnlich D imprimitiv were, also Adie Systeme imprimitiv vertauschte,
+

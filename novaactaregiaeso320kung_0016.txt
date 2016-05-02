@@ -1,0 +1,48 @@
+2 J. T. 8011333333,
+
+tionem von G entspreehen (siehe z. B. Nmrro‘s 811113111111101191111190119,
+Seite 98). Diese werden von einer derselben durch Multiplikation mit
+den Substitutionen von J gebildet. Also enthfflt L siimtliehe diejenigen
+Substitutionen von G, welche A entsprechen. Bezeichnen wir die Ord-
+nungen von Γ und Α mit ἰ’ 1111(1 κ, 30 werden diejenigen von G und L
+gleich m ι] 1111(1 mx, Da L 91119 Untergruppe von G ist, wird mx kleiner
+313 m ι’, 3011111 κ <1¹ und also A eine Untergruppe von Γ.
+
+Ferner gilt folgender Satz: Wenn L eine ausgezeiehnete Unter-
+gruppe von G ist, 30 ist „l eine ausgezeiohnete Untergruppe von F,
+wemz A uberhaupt eine Unteryruppe von Γ ist. In NETTO'S substitutio-
+nentheorie 3. 3. O. ist dieser Satz als Umkehrung eines andern Satzes
+erwfflmt, die 1111- die Giiltigkeit, derselben aber not-wendige Bedingung,
+dass „J eine Untergruppe von Γ 39111 1111133, nicht angegeben.
+
+Die Umkehrung dieses Satzes lautet ganz einfth auf folgende
+Weise: Wenn Δ] 91119 ausgezeiehnete Untergruppe der zu G {somorphen
+Gruppe Γ ist, 30 ist. die (191· ,Ι entsprechende Untergruppe L von G
+eine ausgezeichuete Untergruppe von G.
+
+3, Wir k61me11 111111 folgenden Satz herleiten:
+
+Wenn A] eine ausgezeiehnete Maximaluntergruppe der zu G 130-
+morphen Gruppe Γ ist, 30 ist die der ⁴1 entspreehende Untergruppe L
+von G eine ausgezeichnete Maximaluntergruppe von G.
+
+Wir 11911111911 311, 93 391 L keine ausgezeiehnete Maximaluntergruppe
+von G. Danu haben wir jedoch nach 11εο 2, dass L eine ausgezeiohnete
+Untergruppe von G ist. Also 1111133 111 G eine ausgezeiehnete Untergruppe
+T eingehen, in welcher L 313 Untergruppe vorkommt. Es mbge 111111 Θ
+(119 Τ entspreehende 111 Γ ent-haltene Gruppe sein. Da L ihrer Defini-
+tion ζ(ἐ19111ἐί33 J enthalten 1111133, wird dies auch mit T der Fall sein. Α130
+muse 39111333 11ῑο 2 ζ’) 91119 Untergruppe von Γ sein. Da Τ 91119 ausge-
+zeiehnete Untergruppe von G ist, so ergiebt, sich somit 113911 11ιο 2, (1333
+Θ 91119 ausgezeiehnete Untergruppe von Γ ist. Weiter ist Θ zu T iso-
+morph auf (119 VVeise, dass die Substitutionen 111 Τ, welche der Substi-
+tution 1 in Θ entsprechen, J ausmaehen, und 93 1315 L eine in Τ vor-
+kommende Untergruppe, welche J enthsstlt. Also 1111133 Λ nach n:o 2
+eine Untergruppe von Θ 39111. Dies streitet gegen die Voraunssetzung⁷
+dass A eine ausgezeiehnete Maximaluntergruppe von Γ 391. Α130 kann
+G keine 3019119 Gruppe wie Τ enthalten, und 93 folgt⁷ dass L eine 3113-
+gezeiehnete Maximaluntergruppe von G sein muss.
+
+Wenn NETTo in 3911191 Substitutionentheorie a. a. O. diesen Satz
+beweisen 3011, zeigt er nicht, dass Θ, indem wir uns zu meinen Bezeich-
+

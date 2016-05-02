@@ -1,0 +1,49 @@
+UBER IMPli'rlvss UND lli⁴21<‹‘)1x11¹osA13111‹3 AU1='1„‘(')SBAR1‹: GieUl‘l‘EN. 17
+
+eine jede in keiner der Zeilcn vorlmmmt, welche dcrjenigeu Zeilc vor-
+ausgehen, in welcliei· die Substituiiou ausgcsclnieben ist. Danu gili, <laiss
+die Substitutionen (8) sitmtlich die Systeme uus vei-scliiedene Weisc ver-
+tauschen. Wir serzen
+
+(9) σ1 = N11’1 , 02 = Al, Β. , .. . . “q-1 = *Vq—1 ΡΨ,1 ,
+wo last-3, . . . . Pq-¹ die Systeme nicht vertatisclien, und bezeichnen mit
+(10) 1,‹J2,‚‹1›2‚....cl›q<,
+
+Substitutionen, welche die λ Elemeiite e0,e1,.. ,ελ-ι in dei-selben Weise
+wie 1, N„ Νἓ ..... Νφ-1 odei· (8) die Systenie vertausolmn. Diese bilden
+eine Gruppe D, welche zufelge der Forniclii (2) und (6) zu Γ derart
+isomerpli ist, dass (In-¹ deii substitutionem σῙΔ Γ1 dci· 1-1- Lsten Zeile vom
+Schema I cntspriclit.
+
+JORDAN liisst. im »Tr-aste» Φι- den gcnamitcn Substitutioneii von l'
+entsprechen, siehe z. H. Seite 224, Zeile 3. Dies ist aber zufolge der
+Formeln (2) und (6) nicht richtig.
+
+18. Es m'ege 111111 Γ ρ11111ἐ11, also I) transitiv sein. Diejeuigcn
+substitutionem P'ff‘, welche die Indices mit dem Indikatox· a wie Γι ver-
+}inderm die iibrigen aber unveriindert lasscn7 bilden eine Gruppe, die wir
+Ha 1161111911. Dann kennen die λ Gruppeu
+
+(11) H07H1,....H2-¹7
+
+welche wir fiir a Ξ 0, l,. . . . λ-Ι erhelten, von einer derselben durch
+Transformation·{mit (8) gebildet werden.
+Dureh Kombination der (11) θ1Ἰ1ἑ111 man die Gruppe
+
+(12) {H0,H1‚....H2-1}‚
+
+welche Γ1 6111ὴὲ111. Die Faktoren der Zusammensetzung dieser Gruppe
+bestelien aus denjeiiigen von HM ein jeder λ Mal wiederholf. H„ ist
+nssimlieh zu dieser Gruppe derart isoniorph, dass die Uuteigruppe
+{H,‚....H„-,} von (12) der substitution 1 von HU entspricht. Die
+Faktoren der Zusammensetzung von (12) bestehen somit aus denjenigen
+von H⁰ und {H¹7 . . .. Hpq} . Durch forfgesetzte Anwendung dieser
+Folgerungsweise erhalten wir schliesslioh, dass die Faktoren der Zusam-
+mensetzung von (12) aus denjenigen der Gruppen (11) bestehen⁷ oder,
+was dasselbe ist, aus denjenigen von ΗΟ, ein jeder λ Mal wiederholt.
+
+¹)
+.)
+
+Nova Acia Reg. Soc. Se. Ups. Ser. ΙΙΙ. Impr. ¹⁶s111 1892).
+

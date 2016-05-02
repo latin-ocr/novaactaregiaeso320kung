@@ -1,0 +1,50 @@
+UBER IMPRlMl'PIVE UND DEKOMPOSABLE AUFLOSBARE GRUPPEN. 3
+
+‘nungen halten, eine Untergruppe von Γ wird, d. h. nach Nss‘r'm's Be-
+zeichnungen‚ dass T eine Un‘sergruppe von G wird. Man kann somit,
+indem man meine Bezeichnungen anwendet, gegen 11111 den Einwurf ma-
+chen, dass Θ und Γ vielleicht zusannnenfallen κὀ1111611, wodureh A eine
+ausgezeichnete Maximaluntergruppe von Ι’ 66111 kemite, wa'hrend 66 eine
+Gruppe T giibe.
+
+Die Umkehrung (166 hergeleite‘ren Satzes lantet folgendermassen:
+
+Wenn L eine ausgezeichnete Maximaluntergruppe von G ist und
+vdie Gruppe J entlzc'ilt, so ist die der L entsprechende Gruppe „l in der
+zu G isomorphen Γ 61116 ausgezeichnete Maximaluntergruppe von Γ.
+
+Wenn 111111111611 Α] keine ausgezeichnete Maxiinalnntergruppe von Γ
+were, 60 111116616 616 jedoeh nael] 1120 2 61116 ausgezeiehnete Untergruppe
+von Γ 66111. Somit mflsste Γ 61116 ausgezeichnete Untergruppe ζ’) ent-
+halten, in welche -Ι als Untergrnppe eingehen wiirde. Die dieser ent-
+spreohende Untergruppe T von G wiirde dnnn eine ausgezeiehnete Un-
+tergruppe von G und enthielte L als Untergruppe, was der Annahme
+widerstrei‘set, dass L eine ausgezeichnete Maxinialuntergruppe von G 661.
+Α160 kann Γκ61116 6016116 Gruppe wie (τ) enthalten⁷ und A 1111166 61116
+ausgezeichnete Maximaluntergruppe von Γ sein.
+
+Wir erhalten hieraus folgenden Satz:
+
+Eine Reihe der Zusanmiensetzung von G wird durch die Gruppen
+gebildet, welche der Reihe der Zusammensetzung von der zu G 16011101·-
+phen Gruppe Γ entsprechen, gesolgt von der Reihe der Zusanimensetz-
+ung von J. Die Faktoren der Zusammensetzung von G werden durch
+-diejenigen von Γ 1111(1 J ausgeniaeht.
+
+Der Beweis ist leioht ersiohtlich, wir iibergehen ihn daher.
+
+4. Wir fiigen hier zwei Skitze hinzu⁷ welche wohl eigentlieh nieht
+zur Theorie (166 Isoniorphismus geh'('›ren⁷ welche aber durch 1110 3 16161113
+bewiesen werden kbnnen. Zuerst erhalten wir folgenden Satz: Wenn
+G eine intransitive Gruppe mit μ Systeinen von transitiv zusammenhkin-
+genden Elelnenten ist, und
+
+(1) ΗΟ, H1⁷ . . . . Ημ,ι
+
+Gruppen sind, von welchen eine jede aus denjenigen Bestandteilen der
+Substitutionen von G ausgemaeht wird, welche die Elemente von einem
+der respektiven μ Systeme vertauschen, 60 ist 66 ffir die Auflesbarkeit
+von G notwendig und hinreichend, dass (1) auflbsbar sind. Die Faktoren
+der Zusammensetzung von G bestehen aus denjenigen der Gruppen (1)
+oder aus Divisoren derselben.
+
